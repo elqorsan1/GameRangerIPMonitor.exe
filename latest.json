@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "url": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/download/v1.0.1/GameRangerIPMonitor.exe",
+  "url": "https://github.com/elqorsan1/GameRangerIPMonitor.exe/raw/main/GameRangerIPMonitor.exe",
   "sha256": "D3132525291437D23825D8E69190A865B4C0A67F0ABB23DC0A09A2E7C0EE41F1",
   "mandatory": true,
   "notes": "Required update."
