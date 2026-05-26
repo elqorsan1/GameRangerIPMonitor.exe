@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "url": "https://raw.githubusercontent.com/elqorsan1/GameRangerIPMonitor.exe/main/GameRangerIPMonitor.exe",
-  "sha256": "746B2091BCF21AD0CC83407FBE2A5BE751A62424B412FD6AF8BA3400287017EB",
+  "sha256": "83ACC9BBE02C0A928F3644EACBD8924E0FD47B77464A346EF9656444B25BB8AB",
   "mandatory": true,
-  "notes": "New professional PySide6 interface."
+  "notes": "FontAwesome icons, update progress, and improved window sizing."
 }
