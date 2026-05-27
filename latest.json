@@ -1,7 +1,7 @@
 {
   "version": "1.0.5",
-  "url": "https://github.com/elqorsan1/GameRangerIPMonitor.exe/releases/download/ip/GameRangerIPMonitor.exe",
-  "sha256": "1299BCB42D85FBF3FA0348DF0D62EEEE69996B92229689A28537A899458426A5",
+  "url": "https://github.com/elqorsan1/GameRangerIPMonitor.exe/raw/refs/heads/main/GameRangerIPMonitor.exe",
+  "sha256": "C01D48CEB46C7CAF20F4241433233F837ABDC43A32B3EA8BF794A11598046018",
   "mandatory": true,
   "notes": "Improved ping display, hidden owner IP, live license countdown, and polished header."
 }
