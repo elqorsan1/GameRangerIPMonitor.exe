@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "url": "https://github.com/elqorsan1/GameRangerIPMonitor.exe/raw/refs/heads/main/GameRangerIPMonitor.exe",
-  "sha256": "C01D48CEB46C7CAF20F4241433233F837ABDC43A32B3EA8BF794A11598046018",
+  "sha256": "3E796E93BD7424488D196CFDB7E3013FCA23D9F73324CDDB5F93D0A72C6FCEF0",
   "mandatory": true,
-  "notes": "Improved ping display"
+  "notes": "More reliable updater with retry, backup, and update log."
 }
