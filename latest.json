@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "url": "https://github.com/elqorsan1/GameRangerIPMonitor.exe/raw/refs/heads/main/GameRangerIPMonitor.exe",
-  "sha256": "39FA6345E87A3914684B2DBDFCD211E3685C863360398FB31569B330823BD635",
+  "sha256": "4E4EF8AC4143389E5DBB3505EFD7791A0B822E9D64611CB9F0AB38BAF75682ED",
   "mandatory": true,
-  "notes": "Updater now requests administrator permission when needed."
+  "notes": "Updater now downloads the new EXE next to the old one, removes the old EXE, then keeps only the updated file."
 }
