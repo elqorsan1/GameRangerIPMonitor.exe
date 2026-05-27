@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "url": "https://raw.githubusercontent.com/elqorsan1/GameRangerIPMonitor.exe/main/GameRangerIPMonitor.exe",
-  "sha256": "83ACC9BBE02C0A928F3644EACBD8924E0FD47B77464A346EF9656444B25BB8AB",
+  "version": "1.0.4",
+  "url": "https://github.com/elqorsan1/GameRangerIPMonitor.exe/releases/download/ip/GameRangerIPMonitor.exe",
+  "sha256": "C9B1C2F868296815886F25705D3718F5F74037410F4F1BE1EC3A0A9ACF81285A",
   "mandatory": true,
-  "notes": "FontAwesome icons, update progress, and improved window sizing."
+  "notes": "App icon, social images, GameRanger ID, and improved update layout."
 }
