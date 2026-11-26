@@ -1,7 +1,7 @@
 {
-  "version": "1.0.15",
-  "url": "https://github.com/elqorsan1/GameRangerIPMonitor.exe/releases/latest/download/GameRangerIPMonitor.exe",
-  "sha256": "383f530414a58481ef4613e58f034a08b049e3682578adcd8b4c40926a3df673",
-  "mandatory": true,
-  "notes": "Fixed the online updater. Updates now download and install automatically from GitHub."
+    "version":  "1.0.16",
+    "url":  "https://github.com/elqorsan1/GameRangerIPMonitor.exe/releases/latest/download/GameRangerIPMonitor.exe",
+    "sha256":  "2401f4daf5822640505f5a14b4a6cd21a21874eddb012ca3582e5cc8f7782b43",
+    "mandatory":  true,
+    "notes":  "ONLINE UPDATE FIXED"
 }
